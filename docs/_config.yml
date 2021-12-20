@@ -29,9 +29,10 @@ url: "https://father-grigori.github.io" # the base hostname & protocol for your 
 domain: "father-grigori.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
+markdown: kramdown
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
